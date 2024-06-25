@@ -1,0 +1,7 @@
+# Uriel
+
+## Description
+
+<small>Author: @JohnHammond</small><br><br>Uriel was browsing the web and he saw this big long blob of text in his address bar!  He was telling me about it but I don't remember everything he said... I think he mentioned something like <i>"it happened twice?"</i> <br><br> <b><code> &percnt;25&percnt;36&percnt;36&percnt;25&percnt;36&percnt;63&percnt;25&percnt;36&percnt;31&percnt;25&percnt;36&percnt;37&percnt;25&percnt;37&percnt;62&percnt;25&percnt;33&percnt;38&percnt;25&percnt;36&percnt;35&percnt;25&percnt;36&percnt;36&percnt;25&percnt;36&percnt;35&percnt;25&percnt;36&percnt;32&percnt;25&percnt;33&percnt;36&percnt;25&percnt;33&percnt;36&percnt;25&percnt;36&percnt;31&percnt;25&percnt;33&percnt;37&percnt;25&percnt;33&percnt;31&percnt;25&percnt;33&percnt;39&percnt;25&percnt;36&percnt;32&percnt;25&percnt;33&percnt;37&percnt;25&percnt;33&percnt;35&percnt;25&percnt;36&percnt;31&percnt;25&percnt;33&percnt;34&percnt;25&percnt;36&percnt;32&percnt;25&percnt;33&percnt;37&percnt;25&percnt;36&percnt;33&percnt;25&percnt;33&percnt;36&percnt;25&percnt;33&percnt;33&percnt;25&percnt;33&percnt;34&percnt;25&percnt;36&percnt;34&percnt;25&percnt;33&percnt;38&percnt;25&percnt;33&percnt;38&percnt;25&percnt;33&percnt;35&percnt;25&percnt;33&percnt;37&percnt;25&percnt;33&percnt;38&percnt;25&percnt;33&percnt;38&percnt;25&percnt;36&percnt;34&percnt;25&percnt;36&percnt;36&percnt;25&percnt;36&percnt;33&percnt;25&percnt;37&percnt;64 </code></b>
+
+
